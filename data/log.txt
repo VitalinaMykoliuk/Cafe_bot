@@ -1,0 +1,4 @@
+2023-08-09 15:12:11,678 Bot: Pars_anime [@Pars_anime3_bot]
+2023-08-09 15:12:11,679 Start polling.
+2023-08-09 15:15:36,740 Stop polling...
+2023-08-09 15:15:36,741 Goodbye!
